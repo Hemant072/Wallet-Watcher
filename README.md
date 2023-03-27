@@ -1,1 +1,1 @@
-# Wallet-Watcher
+# Wallet-Watcher-Extension
